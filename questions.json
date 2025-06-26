@@ -1,1 +1,27 @@
-[]
+[
+  {
+    "question": "Ile to jest 2 + 2?",
+    "options": ["3", "4", "5", "6"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Jaka jest stolica Polski?",
+    "options": ["Kraków", "Warszawa", "Gdańsk", "Wrocław"],
+    "correctAnswer": "Warszawa"
+  },
+  {
+    "question": "Który narząd odpowiada za filtrowanie krwi?",
+    "options": ["Płuca", "Wątroba", "Nerki", "Trzustka"],
+    "correctAnswer": "Nerki"
+  },
+  {
+    "question": "Jakie jest prawidłowe ciśnienie krwi u dorosłego?",
+    "options": ["90/60", "120/80", "140/90", "160/100"],
+    "correctAnswer": "120/80"
+  },
+  {
+    "question": "Który z wymienionych to antybiotyk?",
+    "options": ["Paracetamol", "Ibuprofen", "Amoksycylina", "Metamizol"],
+    "correctAnswer": "Amoksycylina"
+  }
+]
