@@ -1,22 +1,597 @@
 [
   {
-    "question": "Ile to jest 2 + 2?",
-    "answers": [
-      "3",
-      "4",
-      "5",
-      "6"
+    "question": "Wszystkie powyższe fałszywe",
+    "options": [
+      "Terapia przeciwodleżynowa u pacjenta szczególnie narażonego na powstawanie odleżyn standardowo powinna obejmować:"
     ],
-    "correct": 1
+    "correctAnswer": "Terapia przeciwodleżynowa u pacjenta szczególnie narażonego na powstawanie odleżyn standardowo powinna obejmować:"
   },
   {
-    "question": "Stolica Polski to?",
-    "answers": [
-      "Warszawa",
-      "Kraków",
-      "Gdańsk",
-      "Poznań"
+    "question": "częste zmiany pozycji pacjenta + laser",
+    "options": [
+      "Proces pielęgnowania to:"
     ],
-    "correct": 0
+    "correctAnswer": "Proces pielęgnowania to:"
+  },
+  {
+    "question": "wszystkie odpowiedzi są prawdziwe.",
+    "options": [
+      "Autorką teorii, w której pielęgniarka szacuje rozmiar i rodzaj deficytu opieki, a następnie przygotowuje pacjenta do sam opieki jest:"
+    ],
+    "correctAnswer": "Autorką teorii, w której pielęgniarka szacuje rozmiar i rodzaj deficytu opieki, a następnie przygotowuje pacjenta do sam opieki jest:"
+  },
+  {
+    "question": "D. Orem",
+    "options": [
+      "Instruując pacjenta o sposobie pobrania moczu na posiew pielęgniarka powinna przekazać mu informację, że:"
+    ],
+    "correctAnswer": "Instruując pacjenta o sposobie pobrania moczu na posiew pielęgniarka powinna przekazać mu informację, że:"
+  },
+  {
+    "question": "Wszystkie prawdziwe",
+    "options": [
+      "Próba śródskórna polega na:"
+    ],
+    "correctAnswer": "Próba śródskórna polega na:"
+  },
+  {
+    "question": "Obecnie nie wykonujemy już próby śródskórnej",
+    "options": [
+      "W celu prowadzenia bilansu płynów przyjmuję się utarte płynów z organizmu w ilości:"
+    ],
+    "correctAnswer": "W celu prowadzenia bilansu płynów przyjmuję się utarte płynów z organizmu w ilości:"
+  },
+  {
+    "question": "Mocz – 2500ml.; Stolec – 200ml; Straty nieuchwytne – 800ml.",
+    "options": [
+      "Przygotowując enemę pielęgniarka musi pamiętać o:"
+    ],
+    "correctAnswer": "Przygotowując enemę pielęgniarka musi pamiętać o:"
+  },
+  {
+    "question": "Wszystkie fałszywe",
+    "options": [
+      "Postępowanie po ekspozycji na krew lub inny materiał potencjalnie zakaźny polega na:"
+    ],
+    "correctAnswer": "Postępowanie po ekspozycji na krew lub inny materiał potencjalnie zakaźny polega na:"
+  },
+  {
+    "question": "Wszystkie prawdziwe",
+    "options": [
+      "Wskaż, która z poniżej podanych skal służy do oceny czynności poznawczych i stanu psychicznego pacjenta:"
+    ],
+    "correctAnswer": "Wskaż, która z poniżej podanych skal służy do oceny czynności poznawczych i stanu psychicznego pacjenta:"
+  },
+  {
+    "question": "110 uderzeń na mim",
+    "options": [
+      "Oceniając diurezę pielęgniarka może zdiagnozować występowanie oligurii, gdy chory wydala:"
+    ],
+    "correctAnswer": "Oceniając diurezę pielęgniarka może zdiagnozować występowanie oligurii, gdy chory wydala:"
+  },
+  {
+    "question": "< 100 ml moczu na dobę",
+    "options": [
+      "Odleżyna III stopnia wg Torrancea charakteryzuje się:"
+    ],
+    "correctAnswer": "Odleżyna III stopnia wg Torrancea charakteryzuje się:"
+  },
+  {
+    "question": "w miejscu wkłucia zastosować maść z antybiotykiem,",
+    "options": [
+      "Prowadząc bilans płynów u chorego, należy uwzględnić:"
+    ],
+    "correctAnswer": "Prowadząc bilans płynów u chorego, należy uwzględnić:"
+  },
+  {
+    "question": "objętość płynów przyjętych doustnie, objętość i rodzaj płynów przetoczonych dożylnie, ilość wydzieliny ze zgłębnika, drenu, przetoki jelitowej",
+    "options": [
+      "Pielęgniarki wykonują swój zawód w oparciu o:"
+    ],
+    "correctAnswer": "Pielęgniarki wykonują swój zawód w oparciu o:"
+  },
+  {
+    "question": "Wszystkie powyższe prawdziwe",
+    "options": [
+      "Pacjentowi, u którego prowadzone jest żywienie dojelitowe przez zgłębnik umieszczony w jelicie czczym można podać:"
+    ],
+    "correctAnswer": "Pacjentowi, u którego prowadzone jest żywienie dojelitowe przez zgłębnik umieszczony w jelicie czczym można podać:"
+  },
+  {
+    "question": "specjalne mieszanki odżywcze i 20% roztworów glukozy.",
+    "options": [
+      "Prowadzenie gimnastyki oddechowej zalecane jest dla:"
+    ],
+    "correctAnswer": "Prowadzenie gimnastyki oddechowej zalecane jest dla:"
+  },
+  {
+    "question": "wszystkich wymienionych.",
+    "options": [
+      "Pielęgnacja cewników pozostawionych w drogach moczowych powinna mieć na uwadze m. in. zapobieganie zakażeniu. Pielęgniarka w profilaktyce zakażeń układu moczowego, powinna zwrócić szczególną uwagę na:"
+    ],
+    "correctAnswer": "Pielęgnacja cewników pozostawionych w drogach moczowych powinna mieć na uwadze m. in. zapobieganie zakażeniu. Pielęgniarka w profilaktyce zakażeń układu moczowego, powinna zwrócić szczególną uwagę na:"
+  },
+  {
+    "question": "wszystkie wymienione.",
+    "options": [
+      "Do powikłań długotrwałego utrzymywania cewnika, należy zaliczyć:"
+    ],
+    "correctAnswer": "Do powikłań długotrwałego utrzymywania cewnika, należy zaliczyć:"
+  },
+  {
+    "question": "zakażenia, nietrzymanie moczu, odleżyny.",
+    "options": [
+      "Najkorzystniejszym okresem do wymiany worków urostomijnych są godziny:"
+    ],
+    "correctAnswer": "Najkorzystniejszym okresem do wymiany worków urostomijnych są godziny:"
+  },
+  {
+    "question": "poranne, po spożyciu posiłku i krótkim spacerze.",
+    "options": [
+      "Podając choremu tlen przez cewnik do nosa pielęgniarka ustala szybkość przepływu tlenu na:"
+    ],
+    "correctAnswer": "Podając choremu tlen przez cewnik do nosa pielęgniarka ustala szybkość przepływu tlenu na:"
+  },
+  {
+    "question": "2 – 4 l/min.",
+    "options": [
+      "W celu oceny zmiany odleżynowej zastosujesz:"
+    ],
+    "correctAnswer": "W celu oceny zmiany odleżynowej zastosujesz:"
+  },
+  {
+    "question": "zarówno odpowiedzi a i c są prawidłowe",
+    "options": [
+      "W czasie przygotowywania i podawania leków:"
+    ],
+    "correctAnswer": "W czasie przygotowywania i podawania leków:"
+  },
+  {
+    "question": "Prawdziwe wszystkie powyższe",
+    "options": [
+      "Diagnoza pielęgniarska to:"
+    ],
+    "correctAnswer": "Diagnoza pielęgniarska to:"
+  },
+  {
+    "question": "Wszystkie powyższe prawdziwe",
+    "options": [
+      "Pielęgniarka, która zaobserwowała u pacjenta następujące objawy: ból brzucha, niemożność wydalania gazów i stolca, wzdęcia i napięcie powłok brzusznych, w pierwszej kolejności powinna:"
+    ],
+    "correctAnswer": "Pielęgniarka, która zaobserwowała u pacjenta następujące objawy: ból brzucha, niemożność wydalania gazów i stolca, wzdęcia i napięcie powłok brzusznych, w pierwszej kolejności powinna:"
+  },
+  {
+    "question": "założyć suchą rurkę do odbytu.",
+    "options": [
+      "Przygotowanie pacjenta do badania urografii polega na:"
+    ],
+    "correctAnswer": "Przygotowanie pacjenta do badania urografii polega na:"
+  },
+  {
+    "question": "Wszystkie powyższe prawidłowe.",
+    "options": [
+      "Po endoskopii górnego odcinka przewodu pokarmowego zaleca się:"
+    ],
+    "correctAnswer": "Po endoskopii górnego odcinka przewodu pokarmowego zaleca się:"
+  },
+  {
+    "question": "Niespożywania posiłków do dnia następnego",
+    "options": [
+      "Zabieg przetaczania preparatu krwi pielęgniarka może wykonać:"
+    ],
+    "correctAnswer": "Zabieg przetaczania preparatu krwi pielęgniarka może wykonać:"
+  },
+  {
+    "question": "Prawdziwe a i b",
+    "options": [
+      "Krew przed podłączeniem może przebywać w temperaturze pokojowej nie dłużej niż:"
+    ],
+    "correctAnswer": "Krew przed podłączeniem może przebywać w temperaturze pokojowej nie dłużej niż:"
+  },
+  {
+    "question": "120 minut",
+    "options": [
+      "Przed przetoczeniem krwi i po jego zakończeniu należy dokonać pomiaru i rejestracji:"
+    ],
+    "correctAnswer": "Przed przetoczeniem krwi i po jego zakończeniu należy dokonać pomiaru i rejestracji:"
+  },
+  {
+    "question": "wszystkie powyższe prawidłowe",
+    "options": [
+      "Wykonywanie zawodu pielęgniarki:"
+    ],
+    "correctAnswer": "Wykonywanie zawodu pielęgniarki:"
+  },
+  {
+    "question": "Prawdziwe wszystkie powyżej.",
+    "options": [
+      "Pielęgniarka jest uprawniona do wykonywania samodzielnie, bez zlecenia lekarskiego szczepień ochronnych w ramach kalendarza szczepień i na zlecenie właściwych jednostek organizacyjnych służby zdrowia oraz wystawianie związanych z tym zaświadczeń, pod warunkiem:"
+    ],
+    "correctAnswer": "Pielęgniarka jest uprawniona do wykonywania samodzielnie, bez zlecenia lekarskiego szczepień ochronnych w ramach kalendarza szczepień i na zlecenie właściwych jednostek organizacyjnych służby zdrowia oraz wystawianie związanych z tym zaświadczeń, pod warunkiem:"
+  },
+  {
+    "question": "Wszystkie powyższe prawdziwe",
+    "options": [
+      "Czynniki pośrednie (wewnętrzne) powstawania odleżyn:"
+    ],
+    "correctAnswer": "Czynniki pośrednie (wewnętrzne) powstawania odleżyn:"
+  },
+  {
+    "question": "Wszystkie powyższe prawdziwe",
+    "options": [
+      "Etyka zawodowa Pielęgniarek i Położnych to?:"
+    ],
+    "correctAnswer": "Etyka zawodowa Pielęgniarek i Położnych to?:"
+  },
+  {
+    "question": "Wszystkie powyższe prawdziwe",
+    "options": [
+      "Ileostomia jest to:"
+    ],
+    "correctAnswer": "Ileostomia jest to:"
+  },
+  {
+    "question": "Prawdziwe a i c",
+    "options": [
+      "Zakażeniem szpitalnym określa się:"
+    ],
+    "correctAnswer": "Zakażeniem szpitalnym określa się:"
+  },
+  {
+    "question": "Wszystkie prawdziwe",
+    "options": [
+      "Zakażenia Endogenne :"
+    ],
+    "correctAnswer": "Zakażenia Endogenne :"
+  },
+  {
+    "question": "Jest to zakażenie oportunistyczne",
+    "options": [
+      "Odleżyna to:"
+    ],
+    "correctAnswer": "Odleżyna to:"
+  },
+  {
+    "question": "powyższe prawdziwe",
+    "options": [
+      "Po każdorazowym podaniu leku przez kaniulę dożylną należy:"
+    ],
+    "correctAnswer": "Po każdorazowym podaniu leku przez kaniulę dożylną należy:"
+  },
+  {
+    "question": "zmienić okleinę",
+    "options": [
+      "Dezynfekcja:"
+    ],
+    "correctAnswer": "Dezynfekcja:"
+  },
+  {
+    "question": "Prawdziwe „a” i „b”",
+    "options": [
+      "Przy zatrzymaniu moczu u pacjenta, po cewnikowaniu pielęgniarka musi pamiętać by jednorazowo nie upuszczać więcej niż :"
+    ],
+    "correctAnswer": "Przy zatrzymaniu moczu u pacjenta, po cewnikowaniu pielęgniarka musi pamiętać by jednorazowo nie upuszczać więcej niż :"
+  },
+  {
+    "question": "nie ma to znaczenia",
+    "options": [
+      "Na podstawie ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej pielęgniarka jest uprawniona do wykonywania samodzielnie, bez zlecenia lekarskiego świadczeń diagnostycznych obejmujących:"
+    ],
+    "correctAnswer": "Na podstawie ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej pielęgniarka jest uprawniona do wykonywania samodzielnie, bez zlecenia lekarskiego świadczeń diagnostycznych obejmujących:"
+  },
+  {
+    "question": "Wszystkie fałszywe",
+    "options": [
+      "Sonda Sengstakena – Blakemora stosowana jest w przypadku :"
+    ],
+    "correctAnswer": "Sonda Sengstakena – Blakemora stosowana jest w przypadku :"
+  },
+  {
+    "question": "krwotoku z dolnego odcinka przewodu pokarmowego",
+    "options": [
+      "U pacjentów z chorobą zakrzepowo-zatorową, leczonych heparyną, przeciwwskazane jest wykonywanie wstrzyknięć:"
+    ],
+    "correctAnswer": "U pacjentów z chorobą zakrzepowo-zatorową, leczonych heparyną, przeciwwskazane jest wykonywanie wstrzyknięć:"
+  },
+  {
+    "question": "Śródskórnych",
+    "options": [
+      "Objawy łączności złamania podstawy czaszki z jamami powietrznymi czaszki, to:"
+    ],
+    "correctAnswer": "Objawy łączności złamania podstawy czaszki z jamami powietrznymi czaszki, to:"
+  },
+  {
+    "question": "Triada Cushinga.",
+    "options": [
+      "W przypadku wycięcia całego płuca, błędnym jest podłączenie pozostawionego podczas zabiegu drenu do ssania, gdyż grozi to wystąpieniem:"
+    ],
+    "correctAnswer": "W przypadku wycięcia całego płuca, błędnym jest podłączenie pozostawionego podczas zabiegu drenu do ssania, gdyż grozi to wystąpieniem:"
+  },
+  {
+    "question": "odmy prężnej i zatrzymania krążenia.",
+    "options": [
+      "W przypadku niepowikłanych, pojedynczych złamań kilku żeber, postępowanie z pacjentem zapobiegające niedodmie, polega na:"
+    ],
+    "correctAnswer": "W przypadku niepowikłanych, pojedynczych złamań kilku żeber, postępowanie z pacjentem zapobiegające niedodmie, polega na:"
+  },
+  {
+    "question": "nawilżyć poprzedni opatrunek solą fizjologiczną.",
+    "options": [
+      "Klasyfikacja Trapnella w czterostopniowej skali jest stosowana do oceny:"
+    ],
+    "correctAnswer": "Klasyfikacja Trapnella w czterostopniowej skali jest stosowana do oceny:"
+  },
+  {
+    "question": "odleżyn.",
+    "options": [
+      "Wstrząs hipowolemiczny, jest następstwem:"
+    ],
+    "correctAnswer": "Wstrząs hipowolemiczny, jest następstwem:"
+  },
+  {
+    "question": "wszystkie odpowiedzi prawidłowe.",
+    "options": [
+      "Wstrząśnienie mózgu objawia się krótkotrwałą utratą przytomności występującą w chwili urazu. Czas utraty przytomności może trwać:"
+    ],
+    "correctAnswer": "Wstrząśnienie mózgu objawia się krótkotrwałą utratą przytomności występującą w chwili urazu. Czas utraty przytomności może trwać:"
+  },
+  {
+    "question": "niechęcią do współpracy z zespołem terapeutycznym.",
+    "options": [
+      "Zapotrzebowanie na środki anestetyczne w stanie upojenia alkoholowego :"
+    ],
+    "correctAnswer": "Zapotrzebowanie na środki anestetyczne w stanie upojenia alkoholowego :"
+  },
+  {
+    "question": "anestetyki nie działają,",
+    "options": [
+      "Ciśnienie w mankiecie uszczelniającym rurkę intubacyjną bądź tracheostomijną nie powinno przekraczac :"
+    ],
+    "correctAnswer": "Ciśnienie w mankiecie uszczelniającym rurkę intubacyjną bądź tracheostomijną nie powinno przekraczac :"
+  },
+  {
+    "question": "25 cm H2O,",
+    "options": [
+      "Miejsce do nadzoru po znieczuleniu powinno być wyposażone w :"
+    ],
+    "correctAnswer": "Miejsce do nadzoru po znieczuleniu powinno być wyposażone w :"
+  },
+  {
+    "question": "butle z N2O,",
+    "options": [
+      "W warunkach oddziału intensywnej terapii całkowite żywienie pozajelitowe odbywa się przez :"
+    ],
+    "correctAnswer": "W warunkach oddziału intensywnej terapii całkowite żywienie pozajelitowe odbywa się przez :"
+  },
+  {
+    "question": "zgłębnik żołądkowy,",
+    "options": [
+      "Ośrodkowe ciśnienie żylne(OCŻ) służy do oceny :"
+    ],
+    "correctAnswer": "Ośrodkowe ciśnienie żylne(OCŻ) służy do oceny :"
+  },
+  {
+    "question": "pracy lewej komory serca,",
+    "options": [
+      "Spadek ciśnienia tętniczego krwi we wstrząsie jest charakterystyczne dla fazy:"
+    ],
+    "correctAnswer": "Spadek ciśnienia tętniczego krwi we wstrząsie jest charakterystyczne dla fazy:"
+  },
+  {
+    "question": "bark prawidłowej odpowiedz.",
+    "options": [
+      "Które leki nie wchodzą w skład zestawu przeciwwstrząsowego:"
+    ],
+    "correctAnswer": "Które leki nie wchodzą w skład zestawu przeciwwstrząsowego:"
+  },
+  {
+    "question": "Atropina",
+    "options": [
+      "ARDS -zespół niewydolności oddechowej dorosłych jest wynikiem :"
+    ],
+    "correctAnswer": "ARDS -zespół niewydolności oddechowej dorosłych jest wynikiem :"
+  },
+  {
+    "question": "niewydolności krążenia,",
+    "options": [
+      "Zabiegów resuscytacyjnych NIE podejmuje się , kiedy zatrzymanie krążenia :"
+    ],
+    "correctAnswer": "Zabiegów resuscytacyjnych NIE podejmuje się , kiedy zatrzymanie krążenia :"
+  },
+  {
+    "question": "wydolność oddechową",
+    "options": [
+      "W przypadku ostrej niewydolności nerek najpoważniejszym zaburzeniem elektrolitowym mogącym być zagrożeniem życia jest:"
+    ],
+    "correctAnswer": "W przypadku ostrej niewydolności nerek najpoważniejszym zaburzeniem elektrolitowym mogącym być zagrożeniem życia jest:"
+  },
+  {
+    "question": "hipernatremia",
+    "options": [
+      "Obrzęk płuc jest to postać :"
+    ],
+    "correctAnswer": "Obrzęk płuc jest to postać :"
+  },
+  {
+    "question": "przewlekłej niewydolności oddechowej",
+    "options": [
+      "Do przyczyn ostrego zatrzymania moczu może dojść w przypadku zatrucia:"
+    ],
+    "correctAnswer": "Do przyczyn ostrego zatrzymania moczu może dojść w przypadku zatrucia:"
+  },
+  {
+    "question": "wszystkimi z wymienionych grup",
+    "options": [
+      "badanie przesiewowe w kierunku cukrzycy przy użyciu doustnego testu tolerancji glukozy pielęgniarka wykonuje z użyciem:"
+    ],
+    "correctAnswer": "badanie przesiewowe w kierunku cukrzycy przy użyciu doustnego testu tolerancji glukozy pielęgniarka wykonuje z użyciem:"
+  },
+  {
+    "question": "wszystkie odpowiedzi są błędne",
+    "options": [
+      "Obserwując pacjenta z podejrzeniem zawału mięśnia sercowego pielęgniarka powinna oceniać pacjenta pod kątem występowania:"
+    ],
+    "correctAnswer": "Obserwując pacjenta z podejrzeniem zawału mięśnia sercowego pielęgniarka powinna oceniać pacjenta pod kątem występowania:"
+  },
+  {
+    "question": "niemiarowej czynności serca, rytmu cwałowego, podwyższonej temperatury ciała",
+    "options": [
+      "Określenie poziomu hemoglobiny glikolizowanej HbA1C u pacjentów z cukrzycą służy do:"
+    ],
+    "correctAnswer": "Określenie poziomu hemoglobiny glikolizowanej HbA1C u pacjentów z cukrzycą służy do:"
+  },
+  {
+    "question": "określa średnie stężenie glukozy w ciągu 2-3 miesięcy przed pomiarem",
+    "options": [
+      "Jaką pozycję zastosujesz u pacjenta z obrzękiem płuc:"
+    ],
+    "correctAnswer": "Jaką pozycję zastosujesz u pacjenta z obrzękiem płuc:"
+  },
+  {
+    "question": "znaczne ograniczenie aktywności fizycznej.",
+    "options": [
+      "Obrzęki kończyn dolnych możemy obserwować:"
+    ],
+    "correctAnswer": "Obrzęki kończyn dolnych możemy obserwować:"
+  },
+  {
+    "question": "wszystkie prawidłowe",
+    "options": [
+      "Cukrzycę możemy rozpoznać gdy:"
+    ],
+    "correctAnswer": "Cukrzycę możemy rozpoznać gdy:"
+  },
+  {
+    "question": "wszystkie prawidłowe",
+    "options": [
+      "Przy nagłym zatrzymaniu krążenia u dziecka rozpoczniesz reanimację od:"
+    ],
+    "correctAnswer": "Przy nagłym zatrzymaniu krążenia u dziecka rozpoczniesz reanimację od:"
+  },
+  {
+    "question": "5 wdechów ratowniczych",
+    "options": [
+      "Do częstego zapalenia ucha środkowego u niemowląt usposabia:"
+    ],
+    "correctAnswer": "Do częstego zapalenia ucha środkowego u niemowląt usposabia:"
+  },
+  {
+    "question": "szeroka jama bębenkowa.",
+    "options": [
+      "W antybiotykoterapii należy uwzględnić:"
+    ],
+    "correctAnswer": "W antybiotykoterapii należy uwzględnić:"
+  },
+  {
+    "question": "zwiększenie podaży węglowodanów.",
+    "options": [
+      "Szczepionka BCG, biorąc pod uwagę formę antygenu zawiera:"
+    ],
+    "correctAnswer": "Szczepionka BCG, biorąc pod uwagę formę antygenu zawiera:"
+  },
+  {
+    "question": "produkty metabolizmu komórkowego.",
+    "options": [
+      "Który parametr mierzony przez pielęgniarkę, ma największe znaczenie w ocenie rozwoju dziecka:"
+    ],
+    "correctAnswer": "Który parametr mierzony przez pielęgniarkę, ma największe znaczenie w ocenie rozwoju dziecka:"
+  },
+  {
+    "question": "samopoczucie dziecka",
+    "options": [
+      "Sinawe zabarwienie skóry w zespole Downa świadczy o :"
+    ],
+    "correctAnswer": "Sinawe zabarwienie skóry w zespole Downa świadczy o :"
+  },
+  {
+    "question": "schorzeniu wątroby.",
+    "options": [
+      "Podczas chemioterapii u dzieci może dojść do:"
+    ],
+    "correctAnswer": "Podczas chemioterapii u dzieci może dojść do:"
+  },
+  {
+    "question": "światłowstręt.",
+    "options": [
+      "Karmiąc naturalnie należy przystawiać dziecko do piersi:"
+    ],
+    "correctAnswer": "Karmiąc naturalnie należy przystawiać dziecko do piersi:"
+  },
+  {
+    "question": "według potrzeb dziecka.",
+    "options": [
+      "Jeden wymiennik węglowodanowy (1 WW) to:"
+    ],
+    "correctAnswer": "Jeden wymiennik węglowodanowy (1 WW) to:"
+  },
+  {
+    "question": "10 g węglowodanów prostych w zamian za 10 g węglowodanów złożonych",
+    "options": [
+      "Zadaniem pielęgniarki szkolnej w obecnym systemie opieki zdrowotnej nad uczniami jest:"
+    ],
+    "correctAnswer": "Zadaniem pielęgniarki szkolnej w obecnym systemie opieki zdrowotnej nad uczniami jest:"
+  },
+  {
+    "question": "Profilaktyka swoista.",
+    "options": [
+      "Opieka nad chorym z chorobą Alzheimera w warunkach domowych powinna polegać na:"
+    ],
+    "correctAnswer": "Opieka nad chorym z chorobą Alzheimera w warunkach domowych powinna polegać na:"
+  },
+  {
+    "question": "stałym dozorze i dyskretnym ograniczaniu samodzielności chorego w celu zapewnienia mu jak największego bezpieczeństwa.",
+    "options": [
+      "Kwalifikacja pacjenta do pielęgniarskiej opieki długoterminowej dokonywane jest za pomocą skali:"
+    ],
+    "correctAnswer": "Kwalifikacja pacjenta do pielęgniarskiej opieki długoterminowej dokonywane jest za pomocą skali:"
+  },
+  {
+    "question": "Bartel",
+    "options": [
+      "Cecha charakterystyczną starzenia się układu pokarmowego są :"
+    ],
+    "correctAnswer": "Cecha charakterystyczną starzenia się układu pokarmowego są :"
+  },
+  {
+    "question": "większa aktywność enzymów trawiennych i tendencja do zaparć",
+    "options": [
+      "Co mierzymy skalą Lovetta:"
+    ],
+    "correctAnswer": "Co mierzymy skalą Lovetta:"
+  },
+  {
+    "question": "wszystkie prawdziwe",
+    "options": [
+      "Wg, ONZ starość zaczyna się od:"
+    ],
+    "correctAnswer": "Wg, ONZ starość zaczyna się od:"
+  },
+  {
+    "question": "75 r.ż",
+    "options": [
+      "skaż zdanie fałszywe odnoszące się do charakterystyki snu ludzi w podeszłym wieku:"
+    ],
+    "correctAnswer": "skaż zdanie fałszywe odnoszące się do charakterystyki snu ludzi w podeszłym wieku:"
+  },
+  {
+    "question": "Zaburzenia snu w wieku powyżej 65 lat dotyczą ok. 1/3 tej populacji",
+    "options": [
+      "Dofinansowanie zaopatrzenia w sprzęt rehabilitacyjny, przedmioty ortopedyczne, środki pomocnicze to zadanie dofinansowaniu ze środków:"
+    ],
+    "correctAnswer": "Dofinansowanie zaopatrzenia w sprzęt rehabilitacyjny, przedmioty ortopedyczne, środki pomocnicze to zadanie dofinansowaniu ze środków:"
+  },
+  {
+    "question": "rządowych programów pomocy społecznej, mających na celu ochronę poziomu życia osób niepełnosprawnych",
+    "options": [
+      "Do upadków osób w podeszłym wieku w szczególności przyczyniają się:"
+    ],
+    "correctAnswer": "Do upadków osób w podeszłym wieku w szczególności przyczyniają się:"
+  },
+  {
+    "question": "odpowiedzi a i b są prawidłowe",
+    "options": [
+      "Geriatria to:"
+    ],
+    "correctAnswer": "Geriatria to:"
   }
 ]
